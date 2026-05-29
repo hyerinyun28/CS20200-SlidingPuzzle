@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fJ+FFZxLqu0=",
+  "success": true,
+  "projectFilePath": "/Users/hyerin/Implementation/CLI-SLiding-Puzzle/CLI-SLiding-Puzzle.fsproj",
+  "expectedPackageFiles": [
+    "/Users/hyerin/.nuget/packages/fsharp.core/10.0.103/fsharp.core.10.0.103.nupkg.sha512"
+  ],
+  "logs": []
+}
